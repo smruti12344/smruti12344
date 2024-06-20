@@ -76,7 +76,7 @@ A blog platform where users can create, read, update, and delete posts, built wi
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me on LinkedIn or shoot me an email!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [Your Email](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)
+- **Email:** [Your Email](mailto:smrutiranjan1582@gmail.com)
 
 Thank you for visiting my GitHub profile!
