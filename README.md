@@ -12,7 +12,7 @@ I am a developer who loves to transform ideas into reality using code. My intere
 - **Location:** [Bhubneswar,Odisha]
 - **Email:** [smrutiranjan1582@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226]
-- **Portfolio:** [Your Portfolio Website]
+- **Portfolio:** [https://smruti12344.github.io/Portfolio/]
 
 ## 🚀 Skills
 
