@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I am Smruti Ranjan Sahoo, a passionate MERN full s
 I am a developer who loves to transform ideas into reality using code. My interest in web development started back in my college days, and since then, I have been honing my skills in various technologies. I am always eager to take on new challenges and collaborate with others to create impactful projects.
 
 - **Name:** Smruti Ranjan Sahoo
-- **Location:** [Your Location]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Location:** [Bhubneswar,Odisha]
+- **Email:** [smrutiranjan1582@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226]
 - **Portfolio:** [Your Portfolio Website]
 
 ## 🚀 Skills
