@@ -14,23 +14,17 @@ I am a developer who loves to transform ideas into reality using code. My intere
 - **LinkedIn:** [www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226]
 - **Portfolio:** [https://smruti12344.github.io/Portfolio/]
 
-## 🚀 Skills
+## Skills
 
-### Frontend
-- **Languages:** HTML, CSS, JavaScript
-- **Libraries/Frameworks:** React, Redux, Next.js
-- **Styling:** Chakra UI, Material-UI, Tailwind CSS
-
-### Backend
-- **Languages:** Node.js, Express.js
-- **Databases:** MongoDB, SQL
-- **Authentication:** JWT, OAuth
-
-### Tools & Platforms
-- **Version Control:** Git, GitHub
-- **Build Tools:** Webpack, Vite
-- **Cloud Services:** Firebase, Heroku, AWS
-- **Others:** RESTful APIs, GraphQL, Docker
+- **Languages**: JavaScript, TypeScript, Java
+- **Front-end Development**: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap, Material-UI
+- **Backend Development**: Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth), J2EE
+- **Database**: MongoDB, Mongoose, Oracle
+- **Version Control**: Git, GitHub
+- **Deployed**: Firebase
+- **Tools**: Visual Studio Code, Postman, npm
+- **Operating System**: Windows
+- **Others**: Data Structures and Algorithms (DSA)
 
 ## 📂 Projects
 
