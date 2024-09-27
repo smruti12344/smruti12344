@@ -45,15 +45,59 @@ A full-featured Instagram clone built with React, Vite, Firebase, Chakra UI, Rea
 - User profile with posts and followers
 - Responsive design
 
-### [E-commerce Website](https://github.com/smruti12344/e-commerce-website)
-An e-commerce platform built with MERN stack, providing a seamless shopping experience.
+# Job Portal
 
-**Features:**
-- User authentication and authorization
-- Product listing and search
-- Shopping cart and checkout process
-- Order management for admins
-- Payment gateway integration
+A job portal application built using **J2EE** concepts, where users (job seekers and employers) can search for jobs, apply, and manage job postings.
+
+**Preview**: [Job Portal GitHub Repository](https://github.com/smruti12344/Job_Portal)
+
+## Features
+
+- **User Authentication**: Secure login and registration for job seekers and employers using **J2EE Form-Based Authentication**.
+- **Job Listings**: Employers can create, update, and manage job listings.
+- **Job Search**: Job seekers can search for job openings based on various criteria such as keywords, location, and job type.
+- **Application Management**: Job seekers can apply for jobs with resumes, and employers can view and manage applications.
+- **Dashboard**: Personalized dashboards for job seekers and employers to track applications and job postings.
+- **Admin Panel**: Role-based access control allows admins to moderate job listings and manage users.
+- **Responsive Design**: Built using **JSP**, **HTML**, and **Bootstrap** for a responsive UI.
+- **Database**: Managed via **JDBC** for direct interaction with a **MySQL** database.
+
+## J2EE Concepts Used
+
+1. **Servlets**:
+   - Used for handling HTTP requests and responses. Core operations (job posting, job search, user authentication) are managed by servlets.
+   - Example: `JobServlet` for managing job listings and `AuthServlet` for handling user login and registration.
+
+2. **JSP (JavaServer Pages)**:
+   - JSP is used to render the frontend dynamically, with forms for job applications, dashboards, and job listings.
+   - Example: `jobs.jsp` for displaying job listings, `dashboard.jsp` for user dashboards.
+
+3. **EJB (Enterprise JavaBeans)**:
+   - Stateless EJBs are used for business logic, such as posting jobs, managing applications, and handling user registration.
+   - Example: `JobManagementBean` for job-related operations, `UserManagementBean` for authentication and user management.
+
+4. **JDBC (Java Database Connectivity)**:
+   - JDBC is used to manage the connection and interaction between Java and the **MySQL** database.
+   - Example: Direct SQL queries for job posting, searching, and user management using JDBC.
+
+5. **J2EE Security**:
+   - **Form-Based Authentication** is implemented for login and user role management (job seekers, employers, admins).
+   - Role-based access control ensures different permissions for different users.
+
+6. **JNDI (Java Naming and Directory Interface)**:
+   - Used to manage resources like database connections and EJB references via standardized access.
+   - Example: Database connection pooling managed by JNDI.
+
+## Technologies Used
+
+- **Backend**: Servlets, JSP, EJB, JDBC.
+- **Frontend**: JSP, HTML, CSS, Bootstrap.
+- **Database**: MySQL, managed using **JDBC** for database interaction.
+- **Build Tool**: Maven.
+- **Server**: Deployed on **Tomcat** or **GlassFish** server.
+
+## Project Structure
+
 
 ### [Blog Platform](https://github.com/smruti12344/blog-platform)
 A blog platform where users can create, read, update, and delete posts, built with React, Node.js, and MongoDB.
