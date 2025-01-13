@@ -20,6 +20,7 @@ I am a developer who loves to transform ideas into reality using code. My intere
 - **Front-end Development**: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap, Material-UI
 - **Backend Development**: Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth), J2EE
 - **Database**: MongoDB, Mongoose, Oracle
+- **Cloud Technology**:AWS
 - **Version Control**: Git, GitHub
 - **Deployed**: Firebase
 - **Tools**: Visual Studio Code, Postman, npm
