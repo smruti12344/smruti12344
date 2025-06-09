@@ -2,101 +2,115 @@
 
 **MERN Full Stack Developer**
 
-Welcome to my GitHub profile! I am Smruti Ranjan Sahoo, a passionate MERN full stack developer with a keen interest in building web applications that solve real-world problems. I enjoy working with the latest technologies and continuously learning new things.
+Welcome to my GitHub profile! I'm Smruti Ranjan Sahoo, a passionate MERN full stack developer with a strong interest in building web applications that solve real-world problems. I enjoy working with modern technologies and continuously strive to learn and improve.
+
+---
 
 ## 👨‍💻 About Me
 
-I am a developer who loves to transform ideas into reality using code. My interest in web development started back in my college days, and since then, I have been honing my skills in various technologies. I am always eager to take on new challenges and collaborate with others to create impactful projects.
+I'm a developer who loves turning ideas into reality through code. My journey into web development began during my college days, and since then, I’ve been sharpening my skills in various technologies. I'm always eager to take on new challenges and collaborate with others to create impactful projects.
 
-- **Name:** Smruti Ranjan Sahoo
-- **Location:** Bhubaneswar, Odisha
-- **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)
-- **Portfolio:** [https://smruti12344.github.io/Portfolio/](https://smruti12344.github.io/Portfolio/)
+I am currently working as a **Software Engineer at Performalytic COPS**, where I contribute to building scalable and efficient web solutions.
 
-## Skills
 
-- **Languages**: JavaScript, TypeScript, Java
-- **Front-end Development**: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Bootstrap, Material-UI
-- **Backend Development**: Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth), J2EE
-- **Database**: MongoDB, Mongoose, Oracle
-- **Cloud Technology**:AWS
-- **Version Control**: Git, GitHub
-- **Deployed**: Firebase
-- **Tools**: Visual Studio Code, Postman, npm
-- **Operating System**: Windows
-- **Others**: Data Structures and Algorithms (DSA)
+- **Name:** Smruti Ranjan Sahoo  
+- **Location:** Bhubaneswar, Odisha  
+- **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)  
+- **Portfolio:** [smruti12344.github.io/Portfolio](https://smruti12344.github.io/Portfolio/)
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript, TypeScript, Java  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Redux, Bootstrap, Material-UI  
+- **Backend:** Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth), NodeMailer, Chatbot, J2EE  
+- **Databases:** MongoDB, Mongoose, Oracle  
+- **Cloud:** AWS  
+- **Version Control:** Git, GitHub  
+- **Deployment:** Firebase  
+- **Tools:** VS Code, Postman, npm, Redux Toolkit, Docker  
+- **OS:** Windows  
+- **Other:** Data Structures & Algorithms (DSA)
+
+---
 
 ## 📂 Projects
 
-### [Instagram Clone](https://github.com/smruti12344/instagram-clone)
-A full-featured Instagram clone built with React, Vite, Firebase, Chakra UI, React Icons, and React Firebase Hooks.
+### 📸 [Instagram Clone](https://github.com/smruti12344/instagram-clone)
 
-**Features:**
-- User authentication (sign up, log in, log out)
+A fully-featured Instagram clone built with React, Vite, Firebase, Chakra UI, React Icons, and React Firebase Hooks.
+
+**Key Features:**
+- User authentication (Sign up, Login, Logout)
 - Post photos with captions
 - Like and comment on posts
-- Follow and unfollow users
-- User profile with posts and followers
-- Responsive design
+- Follow/unfollow users
+- User profiles with posts and follower lists
+- Fully responsive design
 
-### [Job Portal](https://github.com/smruti12344/Job_Portal)
-A job portal application built using **J2EE** concepts, where users (job seekers and employers) can search for jobs, apply, and manage job postings.
+---
 
-**Preview**: [Job Portal GitHub Repository](https://github.com/smruti12344/Job_Portal)
+### 💼 [Job Portal](https://github.com/smruti12344/Job_Portal)
 
-**Features:**
-- **User Authentication**: Secure login and registration for job seekers and employers using **J2EE Form-Based Authentication**.
-- **Job Listings**: Employers can create, update, and manage job listings.
-- **Job Search**: Job seekers can search for job openings based on various criteria such as keywords, location, and job type.
-- **Application Management**: Job seekers can apply for jobs with resumes, and employers can view and manage applications.
-- **Dashboard**: Personalized dashboards for job seekers and employers to track applications and job postings.
-- **Admin Panel**: Role-based access control allows admins to moderate job listings and manage users.
-- **Responsive Design**: Built using **JSP**, **HTML**, and **Bootstrap** for a responsive UI.
-- **Database**: Managed via **JDBC** for direct interaction with a **MySQL** database.
+A job portal built using **J2EE**, allowing job seekers and employers to manage job listings and applications.
 
-#### J2EE Concepts Used
+**Key Features:**
+- **Authentication**: Secure login for job seekers and employers (form-based)
+- **Job Listings**: Post, update, and manage job openings
+- **Search**: Search jobs by keyword, location, and type
+- **Application Tracking**: Job seekers apply with resumes; employers manage applicants
+- **Dashboards**: Role-specific dashboards
+- **Admin Panel**: Admin moderation and user management
+- **Responsive UI**: Built with JSP, HTML, and Bootstrap
 
-1. **Servlets**: Used for handling HTTP requests and responses. Core operations (job posting, job search, user authentication) are managed by servlets.
-2. **JSP (JavaServer Pages)**: Used to render the frontend dynamically with forms for job applications, dashboards, and job listings.
-3. **EJB (Enterprise JavaBeans)**: Stateless EJBs are used for business logic, such as posting jobs and managing applications.
-4. **JDBC (Java Database Connectivity)**: Manages the connection and interaction between Java and the **MySQL** database.
-5. **J2EE Security**: Implements form-based authentication for login and user role management.
-6. **JNDI (Java Naming and Directory Interface)**: Used to manage resources like database connections and EJB references.
+**J2EE Concepts Used:**
+- **Servlets**: Handle HTTP requests/responses
+- **JSP**: Dynamic frontend rendering
+- **EJB**: Stateless beans for business logic
+- **JDBC**: MySQL database interaction
+- **J2EE Security**: Form-based auth with role management
+- **JNDI**: Manage resources like DB connections
 
-#### Technologies Used
+**Tech Stack:**
+- **Backend:** Servlets, JSP, EJB, JDBC  
+- **Frontend:** JSP, HTML, CSS, Bootstrap  
+- **Database:** MySQL  
+- **Build Tool:** Maven  
+- **Server:** Tomcat / GlassFish
 
-- **Backend**: Servlets, JSP, EJB, JDBC.
-- **Frontend**: JSP, HTML, CSS, Bootstrap.
-- **Database**: MySQL, managed using **JDBC** for database interaction.
-- **Build Tool**: Maven.
-- **Server**: Deployed on **Tomcat** or **GlassFish** server.
+---
 
-#### Project Structure
+### 📝 [Blog Platform](https://github.com/smruti12344/blog-platform)
 
+A blog platform with full CRUD functionality using React, Node.js, and MongoDB.
 
-### [Blog Platform](https://github.com/smruti12344/blog-platform)
-A blog platform where users can create, read, update, and delete posts, built with React, Node.js, and MongoDB.
+**Key Features:**
+- User authentication & authorization
+- Create, read, update, delete blog posts
+- Commenting system
+- Rich text editor for blog creation
 
-**Features:**
-- User authentication and authorization
-- Create, read, update, and delete blog posts
-- Comment on posts
-- Rich text editor for creating posts
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Smruti Ranjan Sahoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=smruti12344&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
+## 🧠 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smruti12344&layout=compact&theme=radical)
 
+---
+
 ## 🤝 Let's Connect
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me on LinkedIn or shoot me an email!
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to connect with me!
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)
+- **LinkedIn:** [Smruti Ranjan Sahoo](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)  
 - **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)
 
-Thank you for visiting my GitHub profile!
+---
+
+**Thank you for visiting my GitHub profile!** 🙌
