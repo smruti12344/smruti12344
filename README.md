@@ -12,7 +12,6 @@ I'm a developer who loves turning ideas into reality through code. My journey in
 
 I am currently working as a **Software Engineer at Performalytic COPS**, where I contribute to building scalable and efficient web solutions.
 
-
 - **Name:** Smruti Ranjan Sahoo  
 - **Location:** Bhubaneswar, Odisha  
 - **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)  
@@ -101,6 +100,14 @@ A blog platform with full CRUD functionality using React, Node.js, and MongoDB.
 ## 🧠 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smruti12344&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smruti12344&theme=radical)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smruti12344&theme=react-dark)
 
 ---
 
