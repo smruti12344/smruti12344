@@ -1,130 +1,168 @@
-# Smruti Ranjan Sahoo
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4db5ff;">Smruti Ranjan Sahoo</span></h1>
+<h3 align="center">🚀 MERN Full Stack Developer | Software Engineer at Performalytic COPS</h3>
+<p align="center">
+  Passionate about building scalable, user-friendly, and impactful web applications.
+</p>
 
-**MERN Full Stack Developer**
-
-Welcome to my GitHub profile! I'm Smruti Ranjan Sahoo, a passionate MERN full stack developer with a strong interest in building web applications that solve real-world problems. I enjoy working with modern technologies and continuously strive to learn and improve.
-
----
-
-## 👨‍💻 About Me
-
-I'm a developer who loves turning ideas into reality through code. My journey into web development began during my college days, and since then, I’ve been sharpening my skills in various technologies. I'm always eager to take on new challenges and collaborate with others to create impactful projects.
-
-I am currently working as a **Software Engineer at Performalytic COPS**, where I contribute to building scalable and efficient web solutions.
-
-- **Name:** Smruti Ranjan Sahoo  
-- **Location:** Bhubaneswar, Odisha  
-- **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)  
-- **Portfolio:** [smruti12344.github.io/Portfolio](https://smruti12344.github.io/Portfolio/)
-
----
-
-## 🛠️ Skills
-
-- **Languages:** JavaScript, TypeScript, Java  
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Redux, Bootstrap, Material-UI  
-- **Backend:** Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth), NodeMailer, Chatbot, J2EE  
-- **Databases:** MongoDB, Mongoose, Oracle  
-- **Cloud:** AWS  
-- **Version Control:** Git, GitHub  
-- **Deployment:** Firebase  
-- **Tools:** VS Code, Postman, npm, Redux Toolkit, Docker  
-- **OS:** Windows  
-- **Other:** Data Structures & Algorithms (DSA)
+<!-- ====================== BADGES ====================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-MERN_Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
+  <a href="mailto:smrutiranjan1582@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_me-orange?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=smruti12344.smruti12344" />
+</p>
 
 ---
 
-## 📂 Projects
+# 👨‍💻 About Me
+I’m a dedicated MERN full stack developer who loves transforming ideas into reality through clean and efficient code.  
+Currently working as a **Software Engineer at Performalytic COPS**, building scalable and performant web applications.
 
-### 📸 [Instagram Clone](https://github.com/smruti12344/instagram-clone)
-
-A fully-featured Instagram clone built with React, Vite, Firebase, Chakra UI, React Icons, and React Firebase Hooks.
-
-**Key Features:**
-- User authentication (Sign up, Login, Logout)
-- Post photos with captions
-- Like and comment on posts
-- Follow/unfollow users
-- User profiles with posts and follower lists
-- Fully responsive design
+- 💡 Always learning & improving  
+- 🤝 Love collaborating on exciting projects  
+- 🎯 Focused on quality, performance & usability  
+- 🌐 Portfolio: [smruti12344.github.io/Portfolio](https://smruti12344.github.io/Portfolio/)  
 
 ---
 
-### 💼 [Job Portal](https://github.com/smruti12344/Job_Portal)
+# 🛠️ Tech Stack
 
-A job portal built using **J2EE**, allowing job seekers and employers to manage job listings and applications.
+### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui" />
+</p>
 
-**Key Features:**
-- **Authentication**: Secure login for job seekers and employers (form-based)
-- **Job Listings**: Post, update, and manage job openings
-- **Search**: Search jobs by keyword, location, and type
-- **Application Tracking**: Job seekers apply with resumes; employers manage applicants
-- **Dashboards**: Role-specific dashboards
-- **Admin Panel**: Admin moderation and user management
-- **Responsive UI**: Built with JSP, HTML, and Bootstrap
+### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
 
-**J2EE Concepts Used:**
-- **Servlets**: Handle HTTP requests/responses
-- **JSP**: Dynamic frontend rendering
-- **EJB**: Stateless beans for business logic
-- **JDBC**: MySQL database interaction
-- **J2EE Security**: Form-based auth with role management
-- **JNDI**: Manage resources like DB connections
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-**Tech Stack:**
-- **Backend:** Servlets, JSP, EJB, JDBC  
-- **Frontend:** JSP, HTML, CSS, Bootstrap  
-- **Database:** MySQL  
-- **Build Tool:** Maven  
-- **Server:** Tomcat / GlassFish
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+</p>
+
+# 🛠️ Skills
+
+<div align="left">
+
+<!-- JavaScript -->
+<p>JavaScript</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 90%; height: 20px; background: linear-gradient(90deg, #f7df1e, #ffd700); border-radius: 20px; text-align: right; line-height:20px; color:black; font-weight:bold;">90%</div>
+</div>
+
+<!-- React.js -->
+<p>React.js</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 85%; height: 20px; background: linear-gradient(90deg, #61dafb, #21a1f1); border-radius: 20px; text-align: right; line-height:20px; color:black; font-weight:bold;">85%</div>
+</div>
+
+<!-- Node.js -->
+<p>Node.js</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 80%; height: 20px; background: linear-gradient(90deg, #3c873a, #2f6d2d); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">80%</div>
+</div>
+
+<!-- MongoDB -->
+<p>MongoDB</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 75%; height: 20px; background: linear-gradient(90deg, #4DB33D, #2E8B57); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">75%</div>
+</div>
+
+<!-- TypeScript -->
+<p>TypeScript</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #3178c6, #245a91); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+</div>
+
+<!-- J2EE / Java -->
+<p>J2EE / Java</p>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
+  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #b07219, #8a550f); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+</div>
+
+</div>
+
+
+
+# 📂 Projects
+
+## 📸 Instagram Clone
+🔗 [Repo](https://github.com/smruti12344/instagram-clone)  
+A feature-rich social media web app built with React, Vite, Firebase & Chakra UI.
+
+**Features:**  
+- User authentication  
+- Photo posting, likes & comments  
+- Follow system  
+- Profile pages  
+- Responsive UI  
 
 ---
 
-### 📝 [Blog Platform](https://github.com/smruti12344/blog-platform)
+## 💼 Job Portal (J2EE)
+🔗 [Repo](https://github.com/smruti12344/Job_Portal)  
+A complete job management system built using J2EE technology.
 
-A blog platform with full CRUD functionality using React, Node.js, and MongoDB.
+**Includes:**  
+- Secure authentication  
+- Job listings & application tracking  
+- Employer + job seeker dashboards  
+- Admin panel  
 
-**Key Features:**
-- User authentication & authorization
-- Create, read, update, delete blog posts
-- Commenting system
-- Rich text editor for blog creation
-
----
-
-## 📊 GitHub Stats
-
-![Smruti Ranjan Sahoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=smruti12344&show_icons=true&theme=radical)
-
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smruti12344&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smruti12344&theme=radical)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smruti12344&theme=react-dark)
+**Technologies:** JSP, Servlets, JDBC, EJB, MySQL, Maven, Tomcat  
 
 ---
 
-## 🎯 Activity Radar
+## 📝 Blog Platform
+🔗 [Repo](https://github.com/smruti12344/blog-platform)  
+A full-featured blogging system using React, Node.js, and MongoDB.
 
-<!-- This is the radar chart generated by lowlighter/metrics -->
-![Metrics](./github-metrics.svg)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to connect with me!
-
-- **LinkedIn:** [Smruti Ranjan Sahoo](https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226)  
-- **Email:** [smrutiranjan1582@gmail.com](mailto:smrutiranjan1582@gmail.com)
+**Features:**  
+- JWT Auth  
+- CRUD blogs  
+- Comment system  
+- Rich text editor  
 
 ---
 
-**Thank you for visiting my GitHub profile!** 🙌
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smruti12344&theme=radical&row=1&column=5" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:smrutiranjan1582@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_me-orange?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### ⭐ Thank you for visiting my GitHub profile!
+If you like my work, consider giving a ⭐ to the repositories!
