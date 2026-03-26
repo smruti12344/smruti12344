@@ -58,49 +58,45 @@ Currently working as a **Software Engineer at Performalytic COPS**, building sca
   <img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 </p>
 
+---
+
 # 🛠️ Skills
 
 <div align="left">
 
-<!-- JavaScript -->
 <p>JavaScript</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 90%; height: 20px; background: linear-gradient(90deg, #f7df1e, #ffd700); border-radius: 20px; text-align: right; line-height:20px; color:black; font-weight:bold;">90%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 90%; height: 20px; background: linear-gradient(90deg, #f7df1e, #ffd700); text-align: right; line-height:20px; color:black; font-weight:bold;">90%</div>
 </div>
 
-<!-- React.js -->
 <p>React.js</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 85%; height: 20px; background: linear-gradient(90deg, #61dafb, #21a1f1); border-radius: 20px; text-align: right; line-height:20px; color:black; font-weight:bold;">85%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 85%; height: 20px; background: linear-gradient(90deg, #61dafb, #21a1f1); text-align: right; line-height:20px; color:black; font-weight:bold;">85%</div>
 </div>
 
-<!-- Node.js -->
 <p>Node.js</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 80%; height: 20px; background: linear-gradient(90deg, #3c873a, #2f6d2d); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">80%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 80%; height: 20px; background: linear-gradient(90deg, #3c873a, #2f6d2d); text-align: right; line-height:20px; color:white; font-weight:bold;">80%</div>
 </div>
 
-<!-- MongoDB -->
 <p>MongoDB</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 75%; height: 20px; background: linear-gradient(90deg, #4DB33D, #2E8B57); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">75%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 75%; height: 20px; background: linear-gradient(90deg, #4DB33D, #2E8B57); text-align: right; line-height:20px; color:white; font-weight:bold;">75%</div>
 </div>
 
-<!-- TypeScript -->
 <p>TypeScript</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #3178c6, #245a91); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #3178c6, #245a91); text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
 </div>
 
-<!-- J2EE / Java -->
 <p>J2EE / Java</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px; width: 100%;">
-  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #b07219, #8a550f); border-radius: 20px; text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
+  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #b07219, #8a550f); text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
 </div>
 
 </div>
 
-
+---
 
 # 📂 Projects
 
@@ -108,45 +104,31 @@ Currently working as a **Software Engineer at Performalytic COPS**, building sca
 🔗 [Repo](https://github.com/smruti12344/instagram-clone)  
 A feature-rich social media web app built with React, Vite, Firebase & Chakra UI.
 
-**Features:**  
-- User authentication  
-- Photo posting, likes & comments  
-- Follow system  
-- Profile pages  
-- Responsive UI  
-
 ---
 
 ## 💼 Job Portal (J2EE)
 🔗 [Repo](https://github.com/smruti12344/Job_Portal)  
-A complete job management system built using J2EE technology.
-
-**Includes:**  
-- Secure authentication  
-- Job listings & application tracking  
-- Employer + job seeker dashboards  
-- Admin panel  
-
-**Technologies:** JSP, Servlets, JDBC, EJB, MySQL, Maven, Tomcat  
 
 ---
 
 ## 📝 Blog Platform
 🔗 [Repo](https://github.com/smruti12344/blog-platform)  
-A full-featured blogging system using React, Node.js, and MongoDB.
-
-**Features:**  
-- JWT Auth  
-- CRUD blogs  
-- Comment system  
-- Rich text editor  
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smruti12344&theme=radical&row=1&column=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smruti12344&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smruti12344&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smruti12344&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smruti12344&theme=tokyonight" />
 </p>
 
 ---
@@ -165,4 +147,3 @@ A full-featured blogging system using React, Node.js, and MongoDB.
 ---
 
 ### ⭐ Thank you for visiting my GitHub profile!
-If you like my work, consider giving a ⭐ to the repositories!
