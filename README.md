@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4db5ff;">Smruti Ranjan Sahoo</span></h1>
-<h3 align="center">🚀 MERN Full Stack Developer | Software Engineer at Performalytic COPS</h3>
+<h3 align="center">🚀 MERN Full Stack Developer | Software Engineer at Performalytic Corp</h3>
 <p align="center">
   Passionate about building scalable, user-friendly, and impactful web applications.
 </p>
@@ -45,7 +45,7 @@ Currently working as a **Software Engineer at Performalytic COPS**, building sca
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -64,34 +64,117 @@ Currently working as a **Software Engineer at Performalytic COPS**, building sca
 
 <div align="left">
 
+### 🌐 Frontend
+
 <p>JavaScript</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 90%; height: 20px; background: linear-gradient(90deg, #f7df1e, #ffd700); text-align: right; line-height:20px; color:black; font-weight:bold;">90%</div>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:90%;height:20px;background:linear-gradient(90deg,#f7df1e,#ffd700);text-align:right;line-height:20px;color:black;font-weight:bold;">90%</div>
 </div>
 
 <p>React.js</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 85%; height: 20px; background: linear-gradient(90deg, #61dafb, #21a1f1); text-align: right; line-height:20px; color:black; font-weight:bold;">85%</div>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:88%;height:20px;background:linear-gradient(90deg,#61dafb,#21a1f1);text-align:right;line-height:20px;color:black;font-weight:bold;">88%</div>
 </div>
+
+<p>HTML / CSS</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:92%;height:20px;background:linear-gradient(90deg,#ff7a18,#ffb347);text-align:right;line-height:20px;color:black;font-weight:bold;">92%</div>
+</div>
+
+<p>Next.js</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:80%;height:20px;background:linear-gradient(90deg,#000000,#434343);text-align:right;line-height:20px;color:white;font-weight:bold;">80%</div>
+</div>
+
+<p>Redux</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:78%;height:20px;background:linear-gradient(90deg,#764abc,#5a3796);text-align:right;line-height:20px;color:white;font-weight:bold;">78%</div>
+</div>
+
+---
+
+### ⚙️ Backend
 
 <p>Node.js</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 80%; height: 20px; background: linear-gradient(90deg, #3c873a, #2f6d2d); text-align: right; line-height:20px; color:white; font-weight:bold;">80%</div>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:85%;height:20px;background:linear-gradient(90deg,#3c873a,#2f6d2d);text-align:right;line-height:20px;color:white;font-weight:bold;">85%</div>
 </div>
+
+<p>Express.js</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:83%;height:20px;background:linear-gradient(90deg,#444,#222);text-align:right;line-height:20px;color:white;font-weight:bold;">83%</div>
+</div>
+
+<p>Java / J2EE</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:75%;height:20px;background:linear-gradient(90deg,#b07219,#8a550f);text-align:right;line-height:20px;color:white;font-weight:bold;">75%</div>
+</div>
+
+<p>REST API Design</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:85%;height:20px;background:linear-gradient(90deg,#00c6ff,#0072ff);text-align:right;line-height:20px;color:white;font-weight:bold;">85%</div>
+</div>
+
+---
+
+### 🗄️ Database
 
 <p>MongoDB</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 75%; height: 20px; background: linear-gradient(90deg, #4DB33D, #2E8B57); text-align: right; line-height:20px; color:white; font-weight:bold;">75%</div>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:80%;height:20px;background:linear-gradient(90deg,#4DB33D,#2E8B57);text-align:right;line-height:20px;color:white;font-weight:bold;">80%</div>
 </div>
 
-<p>TypeScript</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #3178c6, #245a91); text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+<p>MySQL</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:78%;height:20px;background:linear-gradient(90deg,#00758F,#005f73);text-align:right;line-height:20px;color:white;font-weight:bold;">78%</div>
 </div>
 
-<p>J2EE / Java</p>
-<div style="background: #e0e0e0; border-radius: 20px; overflow: hidden; margin-bottom: 10px;">
-  <div style="width: 70%; height: 20px; background: linear-gradient(90deg, #b07219, #8a550f); text-align: right; line-height:20px; color:white; font-weight:bold;">70%</div>
+<p>PostgreSQL</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:82%;height:20px;background:linear-gradient(90deg,#336791,#1f4e79);text-align:right;line-height:20px;color:white;font-weight:bold;">82%</div>
+</div>
+
+---
+
+### ☁️ DevOps & Tools
+
+<p>Docker</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:75%;height:20px;background:linear-gradient(90deg,#0db7ed,#0077b6);text-align:right;line-height:20px;color:white;font-weight:bold;">75%</div>
+</div>
+
+<p>AWS</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:70%;height:20px;background:linear-gradient(90deg,#ff9900,#cc7a00);text-align:right;line-height:20px;color:white;font-weight:bold;">70%</div>
+</div>
+
+<p>Git & GitHub</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:88%;height:20px;background:linear-gradient(90deg,#333,#000);text-align:right;line-height:20px;color:white;font-weight:bold;">88%</div>
+</div>
+
+<p>Postman / API Testing</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:85%;height:20px;background:linear-gradient(90deg,#ff6c37,#d84315);text-align:right;line-height:20px;color:white;font-weight:bold;">85%</div>
+</div>
+
+---
+
+### 🧠 Core Concepts
+
+<p>Data Structures & Algorithms</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:75%;height:20px;background:linear-gradient(90deg,#8e2de2,#4a00e0);text-align:right;line-height:20px;color:white;font-weight:bold;">75%</div>
+</div>
+
+<p>System Design</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:70%;height:20px;background:linear-gradient(90deg,#11998e,#0575e6);text-align:right;line-height:20px;color:white;font-weight:bold;">70%</div>
+</div>
+
+<p>Problem Solving</p>
+<div style="background:#e0e0e0;border-radius:20px;overflow:hidden;margin-bottom:10px;">
+  <div style="width:85%;height:20px;background:linear-gradient(90deg,#ff512f,#dd2476);text-align:right;line-height:20px;color:white;font-weight:bold;">85%</div>
 </div>
 
 </div>
