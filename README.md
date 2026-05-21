@@ -222,7 +222,7 @@ A feature-rich social media web app built with React, Vite, Firebase & Chakra UI
   <a href="mailto:smrutiranjan1582@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_me-orange?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/smruti-ranjan-sahoo-2nd-a98377226">
+  <a href="https://www.linkedin.com/in/smrutiranjan-sahoo-a98377226/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
